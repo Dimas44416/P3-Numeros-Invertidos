@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\bin\Debug\net8.0-windows\Practica4Invertirnumeros.exe
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\bin\Debug\net8.0-windows\Practica4Invertirnumeros.deps.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\bin\Debug\net8.0-windows\Practica4Invertirnumeros.runtimeconfig.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\bin\Debug\net8.0-windows\Practica4Invertirnumeros.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\bin\Debug\net8.0-windows\Practica4Invertirnumeros.pdb
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.Form1.resources
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.AssemblyInfo.cs
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.sourcelink.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\refint\Practica4Invertirnumeros.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.pdb
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\Practica4Invertirnumeros.genruntimeconfig.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Invertit en Numeros\Practica4Invertirnumeros\obj\Debug\net8.0-windows\ref\Practica4Invertirnumeros.dll
